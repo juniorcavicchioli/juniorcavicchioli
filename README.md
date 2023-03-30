@@ -6,11 +6,10 @@
 </a>
 </div>
 
-Sou Junior, natural de Jundiaí-SP, mas atualmente moro em São Paulo-SP. Comecei minha jornada na programação por volta do início da pandemia de COVID-19, quando decidi trancar meu curso de psicologia para explorar outras áreas de interesse. Desde então, tenho me dedicado intensamente à programação e estou me formando em análise e desenvolvimento de sistemas.
+Sou Junior, natural de Jundiaí-SP, mas atualmente moro em São Paulo-SP. Tenho me dedicado intensamente à programação nos ultimos anos e estou me formando em análise e desenvolvimento de sistemas. Fora da programação, gosto de jogos, assistir séries e filmes, e ocasionalmente desenhar. Pretendo seguir carreira na área. Ela sempre me impressiona além de ser a área em que encontro concentração e satisfação que não encontrei nenhuma outra.
 
-Atualmente, estou trabalhando em um projeto de faculdade em parceria com um colega, que envolve a criação de uma API RESTful para um aplicativo de avaliação de empresas.
+Atualmente, estou trabalhando em um projeto de faculdade em parceria com um colega, que envolve a criação de uma API RESTful para um aplicativo de avaliação de empresas, o [TechBridge](https://github.com/juniorcavicchioli/techbridge).
 
-Fora da programação, gosto de jogos, assistir séries e filmes, e ocasionalmente desenhar. Pretendo seguir carreira na área de programação. É uma área que sempre me impressiona além de ser a área em que encontro concentração e satisfação que não encontrei nenhuma outra área.
 
 
 
