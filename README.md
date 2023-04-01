@@ -1,4 +1,7 @@
-<h2 align="left">Olá, 🌎!</h2> 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&lines=Ol%C3%A1%2C+%F0%9F%8C%8E!" alt="Typing SVG" /></a>
+</div>
+<hr>
 <div align="right">
         <img src="https://komarev.com/ghpvc/?username=juniorcavicchioli&color=red&style=flat"/>
         <a href="linkedin.com/in/adilson-roberto-cavicchioli-junior-6816b7192/">
