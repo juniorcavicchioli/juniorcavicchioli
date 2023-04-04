@@ -10,7 +10,7 @@
 
 <a href="https://drive.google.com/file/d/1LXC_dCk0xhaEZ4pZ0QWR9kIj7k8AvWot/view?usp=drivesdk">Meu currículo em PDF</a>
 
-Sou Junior, natural de Jundiaí-SP, mas atualmente moro em São Paulo-SP. Tenho me dedicado intensamente à programação nos ultimos anos e estou me formando em análise e desenvolvimento de sistemas. Fora da programação, gosto de jogos, assistir séries e filmes, e ocasionalmente desenhar. Pretendo seguir carreira na área. Ela sempre me impressiona além de ser a área em que encontro concentração e satisfação que não encontrei nenhuma outra.
+Sou Junior, natural de Jundiaí-SP, mas atualmente moro em São Paulo-SP. Tenho me dedicado intensamente à programação nos ultimos anos e estou me formando em análise e desenvolvimento de sistemas. Fora da programação, gosto de jogos, assistir séries e filmes, e ocasionalmente desenhar. Pretendo seguir carreira na área. Ela sempre me impressiona além de ser a área em que encontro concentração e satisfação que não encontrei em nenhuma outra.
 
 Atualmente, estou trabalhando em um projeto de faculdade em parceria com um colega, que envolve a criação de uma API RESTful para um aplicativo de avaliação de empresas, o [TechBridge](https://github.com/juniorcavicchioli/techbridge).
 
@@ -19,7 +19,7 @@ Atualmente, estou trabalhando em um projeto de faculdade em parceria com um cole
 
 
 <details>
-        <summary><b>Detalhes do meu GitHub👇🏻</b></summary>
+        <summary><b>Expanda para detalhes do meu GitHub👇🏻</b></summary>
         <div align="center"> 
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=juniorcavicchioli&theme=radical&background=00000000" />
                 </br>
