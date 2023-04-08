@@ -13,9 +13,9 @@
 
 #### 🔗 Encontre-me
 
-<a href="https://www.linkedin.com/in/juniorcavicchioli" target="_blank" title="linkedin.com/in/juniorcavicchioli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="mailto:cavicchioli.adilson@gmail.com" target="_blank" title="cavicchioli.adilson@gmail.com"><img src="https://img.shields.io/badge/e--mail-darkred?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
-<a href="https://drive.google.com/file/d/1LXC_dCk0xhaEZ4pZ0QWR9kIj7k8AvWot/view?usp=drivesdk" target="_blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-darkgreen?style=for-the-badge&logo=googledrive&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/juniorcavicchioli" title="linkedin.com/in/juniorcavicchioli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="mailto:cavicchioli.adilson@gmail.com" title="cavicchioli.adilson@gmail.com"><img src="https://img.shields.io/badge/e--mail-darkred?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<a href="https://drive.google.com/file/d/1LXC_dCk0xhaEZ4pZ0QWR9kIj7k8AvWot/view?usp=drivesdk"><img src="https://img.shields.io/badge/Curr%C3%ADculo-darkgreen?style=for-the-badge&logo=googledrive&logoColor=white"></img></a>
 
 
 <details>
