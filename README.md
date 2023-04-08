@@ -2,13 +2,13 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=juniorcavicchioli&color=red&style=flat"/>
 
 ```diff
-< Junior Cavicchioli
+< 🤵 Junior Cavicchioli
 
-> desenhista ruim mas com orgulho;
-> visitando jogos nas horas vagas;
-> casado com o desenvolvimento de software;
-> amante da technologia;
-> flertando com a psicologia.
+> ✍ desenhista ruim mas com orgulho;
+> 🎮 visitando jogos nas horas vagas;
+> 💻 casado com o desenvolvimento de software;
+> 📱 amante da technologia;
+> 🧠 flertando com a psicologia.
 ```
 
 #### 🔗 Encontre-me
