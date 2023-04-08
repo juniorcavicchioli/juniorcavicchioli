@@ -7,7 +7,7 @@
 > ✍ desenhista ruim mas com orgulho;
 > 🎮 visitando jogos nas horas vagas;
 > 💻 casado com o desenvolvimento de software;
-> 📱 amante da technologia;
+> 📱  amante da technologia;
 > 🧠 flertando com a psicologia.
 ```
 
