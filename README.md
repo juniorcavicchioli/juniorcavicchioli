@@ -23,9 +23,12 @@
         
 Sou Junior, natural de Jundiaí-SP, mas atualmente moro em São Paulo-SP. Tenho me dedicado intensamente à programação nos ultimos anos e estou me formando em análise e desenvolvimento de sistemas. Fora da programação, gosto de jogos, assistir séries e filmes, e ocasionalmente desenhar. Pretendo seguir carreira na área. Ela sempre me impressiona além de ser a área em que encontro concentração e satisfação que não encontrei em nenhuma outra.
 
+Atualmente estou trabalhando na empresa [Élim Duxus](https://www.linkedin.com/company/-lin-duxus-consulting/mycompany/) como desenvolvedor estagiário.
+<!--
 Atualmente, estou trabalhando em um projeto de faculdade em parceria com um colega, que envolve a criação de uma API RESTful para um aplicativo de avaliação de empresas, o [TechBridge](https://github.com/juniorcavicchioli/techbridge).
-        <div width="100%" align="center"><a href="https://github.com/juniorcavicchioli/techbridge" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=juniorcavicchioli&repo=techbridge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+        <div width="100%" align="center"><a href="https://github.com/juniorcavicchioli/techbridge" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=juniorcavicchioli&repo=techbridge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+-->
         
 </details>
 
