@@ -1,16 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&lines=Ol%C3%A1%2C+%F0%9F%8C%8E!" alt="Typing SVG" /></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=juniorcavicchioli&color=red&style=flat"/>
 
-```diff
-< 🤵 Junior Cavicchioli
-
-> ✍ desenhista ruim mas com orgulho;
-> 🎮 visitando jogos nas horas vagas;
-> 💻 casado com o desenvolvimento de software;
-> 📱  amante da technologia;
-> 🧠 flertando com a psicologia.
-```
-
 #### 🔗 Encontre-me
 
 <a href="https://www.linkedin.com/in/juniorcavicchioli" title="linkedin.com/in/juniorcavicchioli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
