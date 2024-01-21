@@ -34,12 +34,6 @@ Atualmente, estou trabalhando em um projeto de faculdade em parceria com um cole
 
 </details>
 
-
-<div align="center">
-  <img src="https://github.com/juniorcavicchioli/juniorcavicchioli/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-
 <!--
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=juniorcavicchioli&style=plastic&label=Views"/>
