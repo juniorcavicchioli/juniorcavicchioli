@@ -3,7 +3,17 @@
 
 Sou Junior, atualmente moro em São Paulo-SP e tenho me dedicado intensamente à programação nos ultimos anos.. Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP. Fora da programação, gosto de jogos, assistir séries e filmes, e ocasionalmente desenhar.
 
-Atualmente estou trabalhando na empresa [Élin Duxus](https://www.linkedin.com/company/-lin-duxus-consulting/mycompany/) como programador.
+Atualmente estou trabalhando na empresa [Élin Duxus](https://www.linkedin.com/company/-lin-duxus-consulting/mycompany/) como programador, onde tenho contato principalmente com a seguinte stack:
+
+- Java: Spring, Hibernate, JSP
+- JavaScript: Vue.js
+- HMTL, CSS
+- SQL (principalmente atrelado ao MySQL e PostgreSQL)
+- Ambiente de Desenvolvimento: SO - Linux Ubuntu, IDE - Intelij e Visual Studio Code
+- Git (hospedado no GitLab)
+- Scrum e Kanban
+
+Essas são as tecnologias que tenho mais contato no meu dia-a-dia. Existem outras que não cheguei a fazer muito uso prático ainda. Além disso, também tenho conhecimentos em outras linguagens, bibliotecas e tecnologias que aprendi na facultadade, em cursos ou por conta própria como C#, ASP.NET, React.js, Next.js, Kotlin, React Native, PL/SQL, Docker etc.
 
 <!--
 <p align="right">
